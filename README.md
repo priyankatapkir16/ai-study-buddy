@@ -15,3 +15,8 @@ An AI-powered study assistant built with Flowise and Google Gemini. It explains 
 1. Import the provided Flowise JSON into Flowise.
 2. Add your own Gemini API key.
 3. Start chatting with the Study Buddy!
+
+## Screenshot
+## Screenshot
+
+![AI Study Buddy](ai-study-buddy.png)
